@@ -151,10 +151,10 @@ a.language:hover span {
   text-decoration: underline;
 }
 code {
-  border: 1px solid #BDBDBD;
+  border: 1px solid #bdbdbd;
   padding: 0em 0.25em;
   border-radius: 3px;
-  background: #EEEEEE;
+  background: #eee;
   font-size: 95%;
 }
 
@@ -609,7 +609,7 @@ article {
   color: #0077b5;
 }
 .contacts li a.telegram:hover {
-  color: #0088cc;
+  color: #08c;
 }
 .contacts li a.phone:hover {
   color: dimgrey;
